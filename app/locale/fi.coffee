@@ -16,8 +16,8 @@ module.exports = nativeDescription: "suomi", englishDescription: "Finnish", tran
 #    century_skills_quote1: "You mess up…so then you think about all of the possible ways to fix it, and then try again. I wouldn't be able to get here without trying hard."
 #    century_skills_subtitle1: "Critical Thinking"
 #    century_skills_subblurb1: "With coding puzzles that are naturally scaffolded into increasingly challenging levels, CodeCombat's programming game ensures kids are always practicing critical thinking."
-#    century_skills_quote2: "Everyone else was making mazes, so I thought, ‘capture the flag’ and that’s what I did."
-#    century_skills_subtitle2: "Creativity"
+    century_skills_quote2: "Kaikki muut tekivät labyrinttejä, mutta itse ajattelin ‘lipunryöstöä!’ ja sen minä sitten teinkin."
+    century_skills_subtitle2: "Luovuus"
 #    century_skills_subblurb2: "CodeCombat encourages students to showcase their creativity by building and sharing their own games and webpages."
 #    century_skills_quote3: "If I got stuck on a level. I would work with people around me until we were all able to figure it out."
 #    century_skills_subtitle3: "Collaboration"
@@ -77,7 +77,7 @@ module.exports = nativeDescription: "suomi", englishDescription: "Finnish", tran
 #    quotes_quote2: " I was surprised about how easy and intuitive CodeCombat makes learning computer science. The scores on the AP exam were much higher than I expected and I believe CodeCombat is the reason why this was the case."
 #    quotes_quote3: "CodeCombat has been the most beneficial for teaching my students real-life coding capabilities. My husband is a software engineer and he has tested out all of my programs. He put this as his top choice."
 #    quotes_quote4: "The feedback … has been so positive that we are structuring a computer science class around CodeCombat. The program really engages the students with a gaming style platform that is entertaining and instructional at the same time. Keep up the good work, CodeCombat!"
-#    see_example: "See example"
+    see_example: "Katso esimerkki"
     slogan: "Lumoavin peli ohjelmoinnin oppimiseen." # {change}
 #    teach_cs1_free: "Teach CS1 Free"
 #    teachers_love_codecombat_title: "Teachers Love CodeCombat"
@@ -85,7 +85,7 @@ module.exports = nativeDescription: "suomi", englishDescription: "Finnish", tran
 #    teachers_love_codecombat_blurb2: "Would recommend CodeCombat to other computer science teachers"
 #    teachers_love_codecombat_blurb3: "Say that CodeCombat helps them support students’ problem solving abilities"
 #    teachers_love_codecombat_subblurb: "In partnership with McREL International, a leader in research-based guidance and evaluations of educational technology."
-#    try_the_game: "Try the game"
+    try_the_game: "Kokeile peliä"
     classroom_edition: "Kouluversio:"
     learn_to_code: "Opi koodaamaan:"
     play_now: "Pelaa Nyt"
@@ -134,7 +134,7 @@ module.exports = nativeDescription: "suomi", englishDescription: "Finnish", tran
 #    get_started_subtitle: "Set up a class, add your students, and monitor their progress as they learn computer science."
     request_demo: "Pyydä demo"
 #    request_quote: "Request a Quote"
-#    setup_a_class: "Set Up a Class"
+    setup_a_class: "Tee luokan asetukset"
     have_an_account: "Onko sinulla jo käyttäjätunnus?"
     logged_in_as: "Olet kirjautunut sisään käyttäjänä"
 #    computer_science: "Our self-paced courses cover basic syntax to advanced concepts"
@@ -199,7 +199,7 @@ module.exports = nativeDescription: "suomi", englishDescription: "Finnish", tran
   modal:
     close: "Sulje"
     okay: "Ok"
-#    cancel: "Cancel"
+    cancel: "Peruuta"
 
   not_found:
     page_not_found: "Sivua ei löydy"
